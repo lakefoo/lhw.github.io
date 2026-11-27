@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+<rect width="400" height="300" rx="24" fill="#dbeafe"/>
+<g><path d="M72 170 L150 95 L228 170 V242 H72 Z" fill="none" stroke="#1d4ed8" stroke-width="9" stroke-linejoin="round"/><path d="M125 242 V183 H175 V242 M92 178 H208" fill="none" stroke="#1d4ed8" stroke-width="8"/><path d="M245 88 C245 61 267 43 291 43 C315 43 337 61 337 88 C337 125 291 169 291 169 C291 169 245 125 245 88Z" fill="#1d4ed8"/><circle cx="291" cy="88" r="13" fill="white"/></g>
+<text x="200" y="278" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#1d4ed8">서울시 공공도서관 검색</text>
+</svg>
