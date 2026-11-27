@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+<rect width="400" height="300" rx="24" fill="#dcfce7"/>
+<g><path d="M110 215 C77 188 93 143 132 140 C136 89 205 72 235 116 C285 103 321 139 306 180 C298 204 278 215 252 215 Z" fill="none" stroke="#15803d" stroke-width="10" stroke-linejoin="round"/><path d="M145 239 L132 265 M205 239 L192 265 M265 239 L252 265" stroke="#15803d" stroke-width="9" stroke-linecap="round"/></g>
+<text x="200" y="278" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#15803d">Air Pollution Inquiry</text>
+</svg>
