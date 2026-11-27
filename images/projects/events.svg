@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+<rect width="400" height="300" rx="24" fill="#fce7f3"/>
+<g><rect x="88" y="65" width="224" height="180" rx="18" fill="none" stroke="#be185d" stroke-width="10"/><path d="M88 115 H312 M137 45 V85 M263 45 V85" stroke="#be185d" stroke-width="10" stroke-linecap="round"/><path d="M133 155 H165 M193 155 H225 M253 155 H267 M133 195 H165 M193 195 H225" stroke="#be185d" stroke-width="10" stroke-linecap="round"/></g>
+<text x="200" y="278" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#be185d">서울시 문화행사 알리미</text>
+</svg>
